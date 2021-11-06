@@ -4,7 +4,9 @@
  
 ## Texto do Desafio:
 
-O petshop **INOVA PETS**, é uma empresa que trabalha no prédio da RFFSA em São Luís oferecendo produtos de alta qualidade para cães e gatos, priorizando sempre o bem-estar e a segurança dos animais, garantindo comodidade, benefícios e qualidade deatendimento aos clientes. O atendimento é composto por um responsável contratado que cuida do caixa e 3 atendentes, que recebem comissão por produto vendido, paga pela empresa em tabela fornecida. Criar um algoritmo que seja capaz de mostrar o total e a comissão do atendente ao final da venda.
+O petshop **INOVA PETS**, é uma empresa que trabalha no prédio da RFFSA em São Luís oferecendo produtos de alta qualidade para cães e gatos, priorizando sempre o bem-estar e a segurança dos animais, garantindo comodidade, benefícios e qualidade de atendimento aos clientes. O atendimento é composto por um responsável contratado que cuida do caixa e 3 atendentes, que recebem comissão por produto vendido, paga pela empresa em tabela fornecida. 
+
+Criar um algoritmo que seja capaz de mostrar o total e a comissão do atendente ao final da venda.
 
 ## O que aprendi com o projeto:
 
